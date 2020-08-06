@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "LabGuide"
+		},
+		{
+			"path": "A1-EmergencyTest"
+		},
+		{
+			"path": "A2-BugSquasher"
+		},
+		{
+			"path": "A3-PersonalBio"
+		}
+	],
+	"settings": {}
+}
