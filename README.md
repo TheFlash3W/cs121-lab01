@@ -48,7 +48,7 @@ Introduce the following errors, one at a time, into the program from Activity 1.
 ### Problem Description
 Write an application that prints, on separate lines, your name, your birthday, your hobbies, your favorite book, and your favorite movie.  Label each piece of information in the output.
 ### Impementation Guide
-1. Expanded the folder named A3-PersonalBio and create a new file named PersonalBio.java
+1. Expand the folder named A3-PersonalBio and create a new file named PersonalBio.java
 2. Design a program to satisfy the requirements in the Problem Description and enter the program code in PersonalBio.java
 3. Test the program using the run link above the main method
 4. Commit the changes to your local repository with a message stating that Activity 3 is completed.
