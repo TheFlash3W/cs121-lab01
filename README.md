@@ -1,10 +1,10 @@
 # Lab01 Guide
 ## Getting Started
 Please complete the following to setup your local development environment before beginning the programming problems in this lab activity.  
-- Tools and Environtment Setup
-- Visual Studio Code Tutorial
+- [Tools and Environtment Setup](https://docs.google.com/document/d/1lmjutqK5ryuidsfeICyTTFlMV7lIx5YXS0sH7s7BW0o/edit?usp=sharing)
+- [Visual Studio Code Intro Videos](https://code.visualstudio.com/docs/getstarted/introvideos)
 
-Once your development environment is setup and running, please watch the Lab01 Walkthough Video.
+Once your development environment is setup and running, please watch the [Lab01 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyBD7Zj-so2hkS6aB6EgRIpf).
 ## Activity 1 - EmergencyTest (pp1.1)
 ### Problem Description
 Enter, compile and run the following application.  
