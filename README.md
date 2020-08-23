@@ -4,7 +4,10 @@ Please complete the following to setup your local development environment before
 - [Tools and Environtment Setup](https://docs.google.com/document/d/1lmjutqK5ryuidsfeICyTTFlMV7lIx5YXS0sH7s7BW0o/edit?usp=sharing)
 - [Visual Studio Code Intro Videos](https://code.visualstudio.com/docs/getstarted/introvideos)
 
-Once your development environment is setup and running, please watch the [Lab01 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyBD7Zj-so2hkS6aB6EgRIpf).
+Once your development environment is setup and running, please watch the [Lab01 Walkthough Videos](https://www.youtube.com/playlist?list=PLbxWwkW_BhyBD7Zj-so2hkS6aB6EgRIpf).  
+
+**NOTE: Please remember to open the workspace before beginning on the lab activities**  
+
 ## Activity 1 - EmergencyTest (pp1.1)
 ### Problem Description
 Enter, compile and run the following application.  
@@ -52,4 +55,9 @@ Write an application that prints, on separate lines, your name, your birthday, y
 2. Design a program to satisfy the requirements in the Problem Description and enter the program code in PersonalBio.java
 3. Test the program using the run link above the main method
 4. Commit the changes to your local repository with a message stating that Activity 3 is completed.
-5. Push the changes from your local repository to the github classroom repository.
+5. Push the changes from your local repository to the github classroom repository.  
+
+## Markdown Resources
+Markdown is a notation that is used to format text documents.  It is widely used in Software Development shops around the world, which is why we're asking you to use it in your lab documentation.  
+
+Github provides a guide for getting started:  [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
