@@ -29,7 +29,7 @@ Enter, compile and run the following application.
 5. Push the changes from your local repository to the github classroom repository.
 
 
-## Activity 2 - BugSquasher (pp1.2)
+## Activity 2 - BugSquasher
 ### Problem Description
 Introduce the following errors, one at a time, into the program from Activity 1.  Record any error messages that the compiler produces.  Fix the previous error each time, before you introduce a new one.  If no error messages are produced, explain why.  Try to predict what will happen before you make each change.
 - change *EmergencyTest* to *Test*
@@ -47,7 +47,7 @@ Introduce the following errors, one at a time, into the program from Activity 1.
 4. Commit the changes to your local repository with a message stating that Activity 2 is completed.
 5. Push the changes from your local repository to the github classroom repository.
 
-## Activity 3 - PersonalBio (pp1.3)
+## Activity 3 - PersonalBio
 ### Problem Description
 Write an application that prints, on separate lines, your name, your birthday, your hobbies, your favorite book, and your favorite movie.  Label each piece of information in the output.
 ### Impementation Guide
