@@ -8,7 +8,7 @@ Once your development environment is setup and running, please watch the [Lab01 
 
 **NOTE: Please remember to open the workspace before beginning on the lab activities**  
 
-## Activity 1 - EmergencyTest (pp1.1)
+## Activity 1 - EmergencyTest
 ### Problem Description
 Enter, compile and run the following application.  
 
