@@ -1,6 +1,7 @@
 # Lab01 Guide
 ## Getting Started
-[Lab Introduction Video](https://youtu.be/K42U3bV7bMk)
+[Lab Introduction Video](https://youtu.be/K42U3bV7bMk)  
+
 Please complete the following to setup your local development environment before beginning the programming problems in this lab activity.  
 - [Visual Studio Code Intro Videos](https://code.visualstudio.com/docs/getstarted/introvideos)
 
